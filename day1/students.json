@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Doe",
+    "roll_no": "101",
+    "class": "10",
+    "section": "A"
+  },
+  {
+    "name": "Jane Smith",
+    "roll_no": "102",
+    "class": "10",
+    "section": "A"
+  }
+]
