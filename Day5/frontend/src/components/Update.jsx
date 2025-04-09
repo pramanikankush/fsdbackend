@@ -9,7 +9,7 @@ const Update = () => {
         const name = e.target.name.value;
         const age = e.target.age.value;
         const data = {name,age};
-        axios.put(`https://fsd-backend-sem-vi-ds-a.onrender.com/users/${id}`,data);
+        axios.put(`https://fsdbackend-sp0p.onrender.com/Users/${id}`,data);
         alert("success")
     }
   return (
